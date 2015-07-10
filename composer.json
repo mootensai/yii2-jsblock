@@ -2,6 +2,7 @@
 	"name": "mootensai/yii2-jsblock",
 	"description": "Embed Javascript block with IDE checking",
 	"keywords": ["yii2", "javascript","block"],
+	"license": "BSD-3-Clause",
 	"type": "yii2-extension",
 	"authors": [
 		{
