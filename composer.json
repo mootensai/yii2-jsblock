@@ -1,15 +1,25 @@
 {
 	"name": "mootensai/yii2-jsblock",
+	"type": "yii2-extension",
 	"description": "Embed Javascript block with IDE checking",
 	"keywords": ["yii2", "javascript","block"],
+	"homepage": "http://github.com/mootensai/yii2-jsblock",
 	"license": "BSD-3-Clause",
 	"type": "yii2-extension",
+	"support": {
+	    "issues": "https://github.com/mootensai/yii2-jsblock/issues",
+	    "source": "https://github.com/mootensai/yii2-jsblock"
+	},
 	"authors": [
 		{
 			"name": "mdmunir",
 			"email": "misbahuldmunir@gmail.com"
 		}
 	],
+	"require": {
+		"php": ">=5.4.0",
+		"yiisoft/yii2": "~2.0"
+	},
 	"autoload": {
 		"psr-4": {
 			"mootensai\\components\\": ""
